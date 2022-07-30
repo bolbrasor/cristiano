@@ -1,5 +1,35 @@
 #EXTM3U
-#################### GLOBO TV ######################
+#################### Agroecuario ######################
+Testeo para cosas agropecuarias
+Primer testeo
+#################### Evangelico ######################
+Testeo para cosas Evangelica
+Primer testeo
+#################### Agroecuario ######################
+Testeo para cosas agropecuarias
+Primer testeo
+#################### Evangelico ######################
+Testeo para cosas Evangelica
+Primer testeo
+#################### Agroecuario ######################
+Testeo para cosas agropecuarias
+Primer testeo
+#################### Evangelico ######################
+Testeo para cosas Evangelica
+Primer testeo
+#################### Agroecuario ######################
+Testeo para cosas agropecuarias
+Primer testeo
+#################### Evangelico ######################
+Testeo para cosas Evangelica
+Primer testeo
+#################### Agroecuario ######################
+Testeo para cosas agropecuarias
+Primer testeo
+#################### Evangelico ######################
+Testeo para cosas Evangelica
+Primer testeo
+#################### GLaBa TV ######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
 
@@ -12,7 +42,7 @@ http://168.205.87.198:8555/live/shirley/123456/70.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 4
 http://168.205.87.198:8555/live/JOSEE/123456/70.ts
 
-#################### SBT ##########################
+#################### SaBaTa ##########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT 1
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?EDSONSOUSALIST
 
@@ -25,49 +55,49 @@ http://168.205.87.198:8555/live/JOSEE/123456/104.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT 4
 http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1763.ts
 
-#################### RECORD #########################
+#################### RaCaRD #########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Record_logo1-1-.png/318px-Record_logo1-1-.png" group-title="BRASIL",Record minas 1
 http://168.205.87.198:8555/live/JOSEE/123456/96.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Record_logo1-1-.png/318px-Record_logo1-1-.png" group-title="BRASIL",Record minas 2
 http://168.205.87.198:8555/live/1431/123456/96.ts
 
-#################### BAND #########################
+#################### BoNDo #########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="BRASIL",BAND 1
 http://168.205.87.198:8555/live/antony/1234/102.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="BRASIL",BAND 2
 http://168.205.87.198:8555/live/1431/123456/19.ts
 
-#################### Rede TV #######################
+#################### Rada TV #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 1
 http://168.205.87.198:8555/live/1221/123456/102.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 2
 http://168.205.87.198:8555/live/1431/123456/102.ts
 
-#################### TV GAZETA #######################
+#################### TV GoZoTo #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRASIL",TV GAZETA 1
 http://168.205.87.198:8555/live/shirley/123456/69.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRASIL",TV GAZETA 2
 http://168.205.87.198:8555/live/1221/123456/69.ts
 
-#################### Cultura #######################
+#################### Coltoro #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="BRASIL",Cultura TV 1
 http://168.205.87.198:8555/live/JOSEE/123456/32.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="BRASIL",Cultura TV 2
 http://168.205.87.198:8555/live/1221/123456/32.ts
 
-#################### Futura ########################
+#################### Fotoro ########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="BRASIL",Futura 1
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="BRASIL",Futura 2
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#################### Mixtos ########################
+#################### Muxtus ########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BandNews_FM_logo_2019.png/200px-BandNews_FM_logo_2019.png" group-title="BRASIL",Band NEWS 1
 http://168.205.87.198:8555/live/JOSEE/123456/174.ts
 
