@@ -1,56 +1,5 @@
 #EXTM3U
-
-#################### Agropecuario ######################
-
-Test para agropecuarios
-Lista esclusiva para canales agropecuarios
-
-#################### Religiosos ######################
-
-Test para religosos
-Lista esclusiva para canales Religiosos
-
-#################### Agropecuario ######################
-
-Test para agropecuarios
-Lista esclusiva para canales agropecuarios
-
-#################### Religiosos ######################
-
-Test para religosos
-Lista esclusiva para canales Religiosos
-
-#################### Agropecuario ######################
-
-Test para agropecuarios
-Lista esclusiva para canales agropecuarios
-
-#################### Religiosos ######################
-
-Test para religosos
-Lista esclusiva para canales Religiosos
-
-#################### Agropecuario ######################
-
-Test para agropecuarios
-Lista esclusiva para canales agropecuarios
-
-#################### Religiosos ######################
-
-Test para religosos
-Lista esclusiva para canales Religiosos
-
-#################### Agropecuario ######################
-
-Test para agropecuarios
-Lista esclusiva para canales agropecuarios
-
-#################### Religiosos ######################
-
-Test para religosos
-Lista esclusiva para canales Religiosos
-
-#################### GLaBa TV ######################
+#################### GLOBO TV ######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
 
@@ -63,7 +12,7 @@ http://168.205.87.198:8555/live/shirley/123456/70.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 4
 http://168.205.87.198:8555/live/JOSEE/123456/70.ts
 
-#################### SaBaTa ##########################
+#################### SBT ##########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT 1
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?EDSONSOUSALIST
 
@@ -76,28 +25,28 @@ http://168.205.87.198:8555/live/JOSEE/123456/104.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT 4
 http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1763.ts
 
-#################### RaCaRD #########################
+#################### RECORD #########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Record_logo1-1-.png/318px-Record_logo1-1-.png" group-title="BRASIL",Record minas 1
 http://168.205.87.198:8555/live/JOSEE/123456/96.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Record_logo1-1-.png/318px-Record_logo1-1-.png" group-title="BRASIL",Record minas 2
 http://168.205.87.198:8555/live/1431/123456/96.ts
 
-#################### BoNDo #########################
+#################### BAND #########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="BRASIL",BAND 1
 http://168.205.87.198:8555/live/antony/1234/102.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="BRASIL",BAND 2
 http://168.205.87.198:8555/live/1431/123456/19.ts
 
-#################### Rada TV #######################
+#################### Rede TV #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 1
 http://168.205.87.198:8555/live/1221/123456/102.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 2
 http://168.205.87.198:8555/live/1431/123456/102.ts
 
-#################### TV GaZaTa #######################
+#################### TV GAZETA #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRASIL",TV GAZETA 1
 http://168.205.87.198:8555/live/shirley/123456/69.m3u8
 
@@ -111,7 +60,7 @@ http://168.205.87.198:8555/live/JOSEE/123456/32.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="BRASIL",Cultura TV 2
 http://168.205.87.198:8555/live/1221/123456/32.ts
 
-#################### Fatara ########################
+#################### Futura ########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="BRASIL",Futura 1
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1373095168.m3u8
 
@@ -130,6 +79,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Juventud
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT460B/110/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg" group-title="BRASIL",GLOBO NEW
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/602px-Record_News_%28color%29.svg.png" group-title="BRASIL",RECORD NEWS 1
 http://168.205.87.198:8555/live/JOSEE/123456/97.ts
@@ -230,5 +182,75 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="BRASIL",TV Câmara
 http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?KeltecMPIPTV
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="BRASIL",TV Câmara 2
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+#################### Bolovio ########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel (HD)-Santa Cruz
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB HD
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB LA PAZ HD
+http://www.channel.tevemi.com:1935/Atb/Atb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB SANTA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO HD-STA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO HD-LA PAZ
+https://ott.streann.com/loadbalancer/services/public/channels/5ea9f3ab2cdc31ce152b0097/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO HD-COCHABAMBA
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f2d22cdc31ce152b0090/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO HD-SANTA CRUZ
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISION SANTA CRUZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISION SC
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Red_pat_new.jpg" group-title="BOLIVIA",PAT
+https://master.tucableip.com/pat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rtp_logo_2021.png" group-title="BOLIVIA",RTP LA PAZ
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rtp_logo_2021.png" group-title="BOLIVIA",RTP HD
+http://www.channel.tevemi.com:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="BOLIVIA",BOLIVIA TV 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="BOLIVIA",BOLIVIA TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png" group-title="BOLIVIA",MEGAvision
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/220px-Logo_tvu.png" group-title="BOLIVIA",TVU LA PAZ
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/CadenaA2018.png/revision/latest?cb=20190210230952" group-title="BOLIVIA",CADENA A (HD)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/GIGAVISION_BOLIVIA.jpg" group-title="BOLIVIA",GIGAvision
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg" group-title="BOLIVIA",SEO TV FHD
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg" group-title="BOLIVIA",SEO TV KIDS
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png" group-title="BOLIVIA",MEDIA TV CANAL 3
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" group-title="BOLIVIA",RTVE
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/TV_Shop.png" group-title="BOLIVIA",Shop TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
