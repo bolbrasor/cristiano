@@ -576,6 +576,10 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304331
 http://200.52.154.125:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 6
 https://www.dailymotion.com/video/x8eimg9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="BOLIVIA", DIRECTV SPORTS AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 7
 https://dai.ly/x828xvr
 
