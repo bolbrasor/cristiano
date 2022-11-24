@@ -451,6 +451,13 @@ http://live.meusrv.gq/hls/a74536850e5e/index.m3u8?PEDROJUNIORTUTORIAIS
 http://live.meusrv.gq/hls/19b51d475739/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #################### Bolovio ########################
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 1
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 2
+https://master.tucableip.com/teleluz/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 1
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80580
 
@@ -459,9 +466,6 @@ http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80581
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 3
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80582
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel Qtar
-https://master.tucableip.com/teleluz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
@@ -472,35 +476,34 @@ http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/98300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1058552
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 4
-https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUIqeiIo4ugBhPMOVMP9nMId2QpNXAw73Qs8Jc1xaLSz6)/dm/3/x7y922d/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel Cocha
+https://dai.ly/x7y922d
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
 http://186.121.206.197/live/daniel/index.m3u8
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27Kd1qw6dhJ2OYXBSIfbE2U/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 2 HD
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7rvncSg7aq0r0CA1DzXFslqhhYeZEPfHs5gtj1mGzDZ)/dm/3/x89sfvo/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 3 HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO HD-STA CRUZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO HD-LA PAZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO 2
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/66956
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO HD-COCHABAMBA
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkpbV_l9WQe9L5eZE-hf_B6sWrvSdCTOceT3VA6mKINv)/dm/3/x827j2y/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO 3
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkAXRysAzuvrfpeWHd0A24k)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISION 1
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xNIQJe1QYLdjDAaz2Gu5ys/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISION 2
-https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISION 3
-https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Red_pat_new.jpg" group-title="BOLIVIA",PAT
 https://master.tucableip.com/pat/playlist.m3u8
@@ -574,7 +577,7 @@ http://200.52.154.125:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 6
 https://www.dailymotion.com/video/x8eimg9
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 7
-https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0mCkRfU3iaPgWyxWTcpJeIebSKhWS06KG0jOgy3w8nNu)/dm/3/x8eimg9/s/live-3.m3u8
+https://dai.ly/x7y922d
 
 #################### Pluto ########################
 
