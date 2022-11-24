@@ -453,10 +453,25 @@ http://live.meusrv.gq/hls/19b51d475739/index.m3u8?PEDROJUNIORTUTORIAIS
 #################### Bolovio ########################
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 1
-https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/191226
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 2
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34685
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 3
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 4
 https://master.tucableip.com/teleluz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 5
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 6
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 7
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 1
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80580
@@ -477,12 +492,10 @@ http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/98300
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1058552
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel Cocha
-https://dai.ly/x7y922d
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27Kd1qw6dhJ2OYXBSIfbE2U/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
 http://186.121.206.197/live/daniel/index.m3u8
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27Kd1qw6dhJ2OYXBSIfbE2U/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 2 HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
@@ -512,7 +525,7 @@ https://master.tucableip.com/pat/playlist.m3u8
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rtp_logo_2021.png" group-title="BOLIVIA",RTP HD
-http://www.channel.tevemi.com:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1914748037.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="BOLIVIA",BOLIVIA TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -562,8 +575,6 @@ https://5d00db0e0fcd5.streamlock.net:443/7232/7232/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA",F10 TV
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test1
-
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 1
 http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27Kd1qw6dhJ2OYXBSIfbE2U/ts
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 2
@@ -573,15 +584,12 @@ http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xNIQJe1QYLdjDAaz2Gu5ys/ts
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 4
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304331
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 5
-http://200.52.154.125:8000/play/a032/index.m3u8
+#EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bAWt7f3d4BHmzHX61MFJg64etg74tY678DKDScNfeMh7xBOniYdEpLc7HrNPHmztg2rU7Kk8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YcDhVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7xtJ5NtSrdSjtpwJD6U5545y7D72fz3HfVxUFKbcv7NpH7r
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/874/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 6
 https://www.dailymotion.com/video/x8eimg9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="BOLIVIA", DIRECTV SPORTS AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
-https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 7
-https://dai.ly/x828xvr
+#EXTINF:-1 tvg-logo="" group-title="BOLIVIA",Test 7 m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhXSRvXzwJq0daEpcQhrSg2ltOjdSYVogQhkDy2RcDfS)/dm/3/x828xvr/d/live-3.m3u8
 
 #################### Pluto ########################
 
