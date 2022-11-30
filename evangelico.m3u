@@ -40,7 +40,7 @@ http://axr.life/EbhTbZp8Zudg/kQyPeRtp2jRM/5365
 http://168.205.87.198:8555/live/shirley/123456/70.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 4
-http://185.134.22.150:8080/jokertv/streaming@2021/39675
+http://dns-onplaytv.fun:80/9271394250/2431173504/24203
 #################### SaBaTa ##########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT 1
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415692
@@ -452,18 +452,27 @@ http://live.meusrv.gq/hls/19b51d475739/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #################### Bolovio ########################
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 1
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/191226
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Globo
+http://tv.urllista.com/live/Tester1/im7wh59lrql/38424.ts
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 2
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34685
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv Sport
+http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1286
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 3
-https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",TyC Sport
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Mundial Qatar 4
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Unitel
 http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27Kd1qw6dhJ2OYXBSIfbE2U/ts
 
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Entel
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Red Uno
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/304323
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azteca 7
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/93860.m3u8
+http://vip.hispanotv.org:80/live/acevedo22/acevedo22/150895.m3u8 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 1
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80580
 
@@ -495,10 +504,10 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO 2
-http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/66956
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1058550
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",RED UNO 3
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkAXRysAzuvrfpeWHd0A24k)/dm/3/x825whp/d/live-3.m3u8
+http://retroplay.io:80/eedzdgnq/MGCuKNMT/304323
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA",BOLIVISION 1
 http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xNIQJe1QYLdjDAaz2Gu5ys/ts
