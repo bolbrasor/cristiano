@@ -109,6 +109,34 @@ http://axr.life/EbhTbZp8Zudg/kQyPeRtp2jRM/5219
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network 2
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415655
 
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 1
+http://45.160.15.130:2909/play/177
+
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 2
+http://181.78.12.119:8000/play/a03f
+
+#EXTINF:-1 tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="BRASIL",Pluto TV Cocina
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
+old
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=6fcb63aa-02de-11eb-a59f-0242ac110002&terminate=false&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6fcb63aa-02de-11eb-a59f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=41.3984&deviceLon=2.1741&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="BRASIL",Foodies
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
+old
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", COCINA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5a45f230-ac3b-11eb-b970-0242ac110002&sid=5a45f230-ac3b-11eb-b970-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://picfiles.alphacoders.com/157/157111.png" group-title="BRASIL",Hell's Kitchen
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
+old
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=24152684-aed7-4c8a-9a34-afc8c6973db7&deviceVersion=91.0.4472&appVersion=5.102.0-fb1fedbd64193f9db000f97c44ce29de6b0bb9d5&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", COCINA AHORA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bf79029d-ac3a-11eb-878e-0242ac110002&sid=bf79029d-ac3a-11eb-878e-0242ac110002&userId=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="BRASIL",A&E
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415547
 
@@ -472,7 +500,9 @@ http://retroplay.io:80/eedzdgnq/MGCuKNMT/304323
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azteca 7
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/93860.m3u8
-http://vip.hispanotv.org:80/live/acevedo22/acevedo22/150895.m3u8 
+old
+http://vip.hispanotv.org:80/live/acevedo22/acevedo22/150895.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 1
 http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80580
 
@@ -752,160 +782,161 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
 ******************************24/7*******************************
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="https://i.ibb.co/hyq2p4t/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  CAILLOU
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/318
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  CORAJE EL PERRO COBARDE
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/338
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="https://i.ibb.co/0mszb5j/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  CUENTRO GREEM
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/340
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="https://i.ibb.co/2N0DH83/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  DINOSAURIOS 1991
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/344
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  DRAGON BALL 1984
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/345
-#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  LOS SIMPSON 1
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35481
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-Clipart-Background.png" group-title="24/7",Tom Y Jerry
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35484
+#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Woody-woodpecker.png" group-title="24/7",Pajaro Loco
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35495
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/307
-#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  LOS SIMPSON 2
-http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/103439
-#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  SOUTH PARK
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/309
-#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="https://i.ibb.co/whf5mH2/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7  THE WALKING DEAD
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/315
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://www.pngitem.com/pimgs/m/273-2735895_alf-hd-png-transparent-png.png" group-title="** CHATEL TV **",24/7 ALF
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/342
-#EXTINF:-1 tvg-id="" tvg-name="24/7 AÑOS MARAVILLOSOS 1988" tvg-logo="https://i.ibb.co/sFXV1Qn/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 AÑOS MARAVILLOSOS 1988
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/359
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="http://assets.stickpng.com/images/5a5773b41c992a034569ab8d.png" group-title="** CHATEL TV **",24/7 BARNY Y SUS AMIGOS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/316
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="https://images.fanart.tv/fanart/batman-the-animated-series-516d18593b0b7.png" group-title="** CHATEL TV **",24/7 BATMAN 1966 RETRO
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26024
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN ANIMADO 1992" tvg-logo="https://images.fanart.tv/fanart/batman-the-animated-series-516d18593b0b7.png" group-title="** CHATEL TV **",24/7 BATMAN ANIMADO 1992
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26202
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/SpongeBob_SquarePants_logo_wordmark.png" group-title="** CHATEL TV **",24/7 BOB ESPONJA
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/317
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="https://i.ibb.co/cYcjH1p/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 BREAKING  BAD
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/332
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 CABALLEROS DEL ZODIACO
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/333
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="https://i.ibb.co/qBQx4JM/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 CANTINFLAS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11784
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CASA DE LOS DIBUJOS" tvg-logo="https://www.comunidadumbria.com/imgs/partidas/g_4f810828a5477.png" group-title="** CHATEL TV **",24/7 CASA DE LOS DIBUJOS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41454
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CASO CERRADO " tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title="** CHATEL TV **",24/7 CASO CERRADO 
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/25984
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="https://i.ibb.co/XJv3tmW/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 CSI: MIAMI
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/339
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="https://i.ibb.co/HT4BY1c/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Death note
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8105
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="https://i.ibb.co/SQn8JrT/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/320
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dog el cazarrecompensas" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/9/92/DOG_The_Bounty_Hunter.svg/2000px-DOG_The_Bounty_Hunter.svg.png" group-title="** CHATEL TV **",24/7 Dog el cazarrecompensas
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/46878
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DON GATO Y SU PANDILLA" tvg-logo="https://i.ibb.co/F40DQn6/Sin-t-tulo-2.png" group-title="** CHATEL TV **",24/7 DON GATO Y SU PANDILLA
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26196
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 DRAGON BALL GT 1996
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/346
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 DRAGON BALL SUPER
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/341
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z 1989" tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 DRAGON BALL Z 1989
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/347
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Avispón Verde" tvg-logo="https://w7.pngwing.com/pngs/742/297/png-transparent-the-green-hornet-strikes-again-kato-captain-action-hornet-logo-batman-van-williams.png" group-title="** CHATEL TV **",24/7 El Avispón Verde
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/25985
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="https://i.ibb.co/N6GHxhG/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 EL CHAPULIN COLORADO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON 2
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58314
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6GHxhG/Sin-t-tulo-1.png" group-title="24/7",EL CHAPULIN COLORADO
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/348
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 EL CHAVO DEL 8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",EL CHAVO DEL 8
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/335
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="https://i.ibb.co/n7K614v/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 EL CHEMA
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/336
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="https://i.ibb.co/10vPrYM/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 EL COYOTE Y CORRE CAMINOS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/319
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATRON DEL MAL " tvg-logo="https://i.ibb.co/fnBGGZG/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 EL PATRON DEL MAL 
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/349
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÑOR DE LOS CIELOS" tvg-logo="https://i.ibb.co/Pzw8gnq/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 EL SEÑOR DE LOS CIELOS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/337
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 FUTURAMA 1999
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" group-title="24/7",CORAJE EL PERRO COBARDE
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/338
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" group-title="24/7",FUTURAMA
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/351
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Guerra De Chistes La Graduacion" tvg-logo="" group-title="** CHATEL TV **",24/7 Guerra De Chistes La Graduacion
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/72687
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY TREE FRIENDS" tvg-logo="https://i.ibb.co/Th6H91v/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 HAPPY TREE FRIENDS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/321
-#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 He-Man
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/353
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HÉROES EN PIJAMAS" tvg-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 HÉROES EN PIJAMAS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/328
-#EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="https://i.ibb.co/MSLsDJQ/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 JUEGO DE TRONOS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/352
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="https://i.ibb.co/C7x8Kkn/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LA CASA DE PAPEL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/334
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="https://i.ibb.co/QQ1kTMM/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LA FAMILIA MONSTERS 1964
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/356
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="https://i.ibb.co/02xSdK6/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LA HORA PICO
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/327
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORMIGA TOMICA" tvg-logo="https://w7.pngwing.com/pngs/785/525/png-transparent-atom-ant-cartoon-animation-ants-television-comics-text-thumbnail.png" group-title="** CHATEL TV **",24/7 LA HORMIGA TOMICA
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26205
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LA PANTERA ROSA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/345
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/347
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL SUPER
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35528
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL GT
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35529
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png" group-title="24/7",Digimon
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="24/7",CABALLEROS DEL ZODIACO
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35524
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10vPrYM/Sin-t-tulo-1.png" group-title="24/7",EL COYOTE Y CORRE CAMINOS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/319
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" group-title="24/7",LA PANTERA ROSA
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/325
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA RISA EN VACIONES" tvg-logo="https://i.ibb.co/B4pKh58/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LA RISA EN VACIONES
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/322
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LA ROSA DE GUADALUPE
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/354
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="https://i.ibb.co/34Pp8yr/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LAZY TOWN
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/323
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="https://i.ibb.co/XtcGg5K/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LE TEMES ALA OSCURIDAD
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8107
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="https://i.ibb.co/VH2Q9Cm/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LOS LOCOS ADDAMS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/355
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS PICA PIEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Flintstones.png/640px-The_Flintstones.png" group-title="** CHATEL TV **",24/7 LOS PICA PIEDRAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Flintstones.png/640px-The_Flintstones.png" group-title="24/7",LOS PICA PIEDRAS
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26226
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="https://i.ibb.co/d46Lb8Z/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 LUIS MIGUEL LA SERIE 2018
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/357
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="https://i.ibb.co/f8Sc1h6/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Malcolm in the middle 2000
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/358
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MasterChef PLUTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/MasterChef_Logo_%26_Wordmark.svg/2560px-MasterChef_Logo_%26_Wordmark.svg.png" group-title="** CHATEL TV **",24/7 MasterChef PLUTO TV
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/46220
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="https://i.ibb.co/3kppzZ1/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Mazinger Z
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/360
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="https://i.ibb.co/Fw4SD1j/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 MR BEAN
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26203
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="https://i.ibb.co/7NWNKJJ/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Naruto
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/361
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Palazuelos Mi Rey |" tvg-logo="https://i.ibb.co/bQWvTWs/Sin-t-tulo-22.png" group-title="** CHATEL TV **",24/7 Palazuelos Mi Rey |
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26220
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="https://i.ibb.co/CMxjFY6/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Peliculas de terror
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/313
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="https://i.ibb.co/7V6B8Kn/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 PELICULAS ESTRENOS 2018
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/350
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="https://i.ibb.co/MnsgDgb/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 PEPPA PIG
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/326
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY y CEREBRO" tvg-logo="https://i.ibb.co/1nMBxwn/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 PINKY y CEREBRO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nMBxwn/Sin-t-tulo-1.png" group-title="24/7",PINKY y CEREBRO
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/362
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="https://i.ibb.co/vdf4ht2/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Pokémon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35509
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Th6H91v/Sin-t-tulo-1.png" group-title="24/7",HAPPY TREE FRIENDS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/321
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fw4SD1j/Sin-t-tulo-1.png" group-title="24/7",MR BEAN
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26203
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/SpongeBob_SquarePants_logo_wordmark.png" group-title="24/7",BOB ESPONJA
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35517
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdf4ht2/Sin-t-tulo-1.png" group-title="24/7",Pokémon
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/363
-#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="https://i.ibb.co/pLXhFgw/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 POWER RANGERS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/303
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma  -½" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png/285px-Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" group-title="** CHATEL TV **",24/7 Ranma  -½
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41455
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="https://i.ibb.co/1vcB3rX/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 ROBOTECH
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/304
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="https://i.ibb.co/MMzDy90/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 SAILOR MOON
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/305
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 1" tvg-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Shark Tank México TEP 1
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/330
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 2" tvg-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 Shark Tank México TEP 2
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/329
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="https://i.ibb.co/wQyzP8j/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 SHERA
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/343
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="https://i.ibb.co/G282JwQ/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 SMALLVILLE
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/308
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="https://i.ibb.co/xgwvK6x/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 SPIDER-MAN
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/310
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="https://i.ibb.co/hDzhCdx/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 STRANGER THINGS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/311
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="https://i.ibb.co/hmV9Lp6/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 SUPER CAMPEONES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NWNKJJ/Sin-t-tulo-1.png" group-title="24/7",Naruto
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/361
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmV9Lp6/Sin-t-tulo-1.png" group-title="24/7",SUPER CAMPEONES
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/312
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="https://i.ibb.co/0K8h4sn/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 THUNDERCAST
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/314
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Wipeout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Wipeout_3_logo.png" group-title="** CHATEL TV **",24/7 Wipeout
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/46786
-#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="https://i.ibb.co/rfw9JT7/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 XMEN ANIME
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/804/804/png-clipart-popeye-village-olive-oyl-bluto-cartoon-others-miscellaneous-comics.png" group-title="24/7",Popeye
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/250548
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F40DQn6/Sin-t-tulo-2.png" group-title="24/7",DON GATO Y SU PANDILLA
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26196
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/6/Hercules-PNG-Picture.png" group-title="24/7",Hercules
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/160619
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/494/499/png-clipart-batman-drawing-logo-batman-logo-heroes-superhero-thumbnail.png" group-title="24/7",BATMAN ANIMADO 1992
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26202
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLXhFgw/Sin-t-tulo-1.png" group-title="24/7",POWER RANGERS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/303
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Videomatch_%281999%29.png/revision/latest?cb=20190502182529&path-prefix=es" group-title="24/7",Video Mach
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/101927
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/273-2735895_alf-hd-png-transparent-png.png" group-title="24/7",ALF
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/342
+#EXTINF:-1 tvg-logo="https://agenciaartistatv.com/wp-content/uploads/2021/03/guerra-de-Chistes.png" group-title="24/7",Guerra De Chistes La Graduacion
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/72687
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qBQx4JM/Sin-t-tulo-1.png" group-title="24/7",CANTINFLAS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11784
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2738696267a861add6102bfeb87" group-title="24/7",La India Maria
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/40929
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02xSdK6/Sin-t-tulo-1.png" group-title="24/7",LA HORA PICO
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/327
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4pKh58/Sin-t-tulo-1.png" group-title="24/7",LA RISA EN VACIONES
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/322
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title="24/7",CASO CERRADO 
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/25984
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT4BY1c/Sin-t-tulo-1.png" group-title="24/7",Death note
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8105
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mszb5j/Sin-t-tulo-1.png" group-title="24/7",CUENTRO GREEM
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/340
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2N0DH83/Sin-t-tulo-1.png" group-title="24/7",DINOSAURIOS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/344
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png/285px-Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" group-title="24/7",Ranma  -½
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41455
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" group-title="24/7",He-Man
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/353
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfw9JT7/Sin-t-tulo-1.png" group-title="24/7",XMEN ANIME
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/331
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0K8h4sn/Sin-t-tulo-1.png" group-title="24/7",THUNDERCAST
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/314
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kppzZ1/Sin-t-tulo-1.png" group-title="24/7",Mazinger Z
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/360
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/785/525/png-transparent-atom-ant-cartoon-animation-ants-television-comics-text-thumbnail.png" group-title="24/7",LA HORMIGA TOMICA
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26205
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vcB3rX/Sin-t-tulo-1.png" group-title="24/7",ROBOTECH
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/304
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sFXV1Qn/Sin-t-tulo-1.png" group-title="24/7",AÑOS MARAVILLOSOS 1988
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/359
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQ1kTMM/Sin-t-tulo-1.png" group-title="24/7",LA FAMILIA MONSTERS 1964
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/356
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VH2Q9Cm/Sin-t-tulo-1.png" group-title="24/7",LOS LOCOS ADDAMS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/355
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/9/92/DOG_The_Bounty_Hunter.svg/2000px-DOG_The_Bounty_Hunter.svg.png" group-title="24/7",Dog el cazarrecompensas
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/46878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/MasterChef_Logo_%26_Wordmark.svg/2560px-MasterChef_Logo_%26_Wordmark.svg.png" group-title="24/7",MasterChef
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/46220
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMzDy90/Sin-t-tulo-1.png" group-title="24/7",SAILOR MOON
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/305
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Wipeout_3_logo.png" group-title="24/7",Wipeout
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/46786
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/cimg/793/2019/10/07/frankdelajungla_052a.png" group-title="24/7",Frack de la Jungla
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/227925
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQn8JrT/Sin-t-tulo-1.png" group-title="24/7",DESAFIO SOBRE FUEGO LATIN AMERICA
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/320
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="24/7",Shark Tank México TEP 1
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/330
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" group-title="24/7",Shark Tank México TEP 2
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/329
+#EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/batman-the-animated-series-516d18593b0b7.png" group-title="24/7",BATMAN 1966 RETRO
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26024
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/742/297/png-transparent-the-green-hornet-strikes-again-kato-captain-action-hornet-logo-batman-van-williams.png" group-title="24/7",El Avispón Verde
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/25985
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSLsDJQ/Sin-t-tulo-1.png" group-title="24/7",JUEGO DE TRONOS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/352
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7x8Kkn/Sin-t-tulo-1.png" group-title="24/7",LA CASA DE PAPEL
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/334
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hDzhCdx/Sin-t-tulo-1.png" group-title="24/7",STRANGER THINGS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/311
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whf5mH2/Sin-t-tulo-1.png" group-title="24/7",THE WALKING DEAD
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/315
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtcGg5K/Sin-t-tulo-1.png" group-title="24/7",LE TEMES ALA OSCURIDAD
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/8107
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cYcjH1p/Sin-t-tulo-1.png" group-title="24/7",BREAKING BAD
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/332
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d46Lb8Z/Sin-t-tulo-1.png" group-title="24/7",LUIS MIGUEL LA SERIE
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/357
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f8Sc1h6/Sin-t-tulo-1.png" group-title="24/7",Malcolm in the middle
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/358
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XJv3tmW/Sin-t-tulo-1.png" group-title="24/724/7",CSI: MIAMI
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/339
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7K614v/Sin-t-tulo-1.png" group-title="24/7",EL CHEMA
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/336
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="24/7",LA ROSA DE GUADALUPE
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/354
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQWvTWs/Sin-t-tulo-22.png" group-title="24/7",Palazuelos Mi Rey
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26220
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/5a5773b41c992a034569ab8d.png" group-title="24/7",BARNY Y SUS AMIGOS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/316
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34Pp8yr/Sin-t-tulo-1.png" group-title="24/7",LAZY TOWN
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/323
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnsgDgb/Sin-t-tulo-1.png" group-title="24/7",PEPPA PIG
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/326
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyq2p4t/Sin-t-tulo-1.png" group-title="24/7",CAILLOU
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/318
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" group-title="24/7",HÉROES EN PIJAMAS
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/328
