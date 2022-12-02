@@ -483,9 +483,6 @@ http://live.meusrv.gq/hls/19b51d475739/index.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Globo
 http://tv.urllista.com/live/Tester1/im7wh59lrql/38424.ts
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv Sport
-http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1286
-
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",TyC Sport
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
@@ -500,17 +497,30 @@ http://retroplay.io:80/eedzdgnq/MGCuKNMT/304323
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azteca 7
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
-old
-https://v-sd.mybtv.net/live/502/768x432.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azteca 7.1
+http://megatitan.net:8080/mattfelipe/9wamh4g92v/24033
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/210718
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directvv
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/145191
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv 2
+http://200.52.154.125:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv +
+http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1286
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 1
-http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80580
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wsK0M91671UQKiuUM0hrcY/ts
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 2
-http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80581
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zjZgyHnfQvaJjrHbHGlLJs/ts
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 3
-http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/80582
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26ZO4fV4J3Bav7hEpxBfVtQ/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
@@ -604,6 +614,15 @@ https://5d00db0e0fcd5.streamlock.net:443/7232/7232/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA",F10 TV
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azzteca 7
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/93860.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azzteca 7.1
+http://yourstream.link:24561/live/athos5681/798171/71453.ts
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azzteca 7 FHD
+http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/865
 
 #################### Pluto ########################
 
