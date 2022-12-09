@@ -117,22 +117,18 @@ http://181.78.12.119:8000/play/a03f
 
 #EXTINF:-1 tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="BRASIL",Pluto TV Cocina
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
-old
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=6fcb63aa-02de-11eb-a59f-0242ac110002&terminate=false&userId=
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6fcb63aa-02de-11eb-a59f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=41.3984&deviceLon=2.1741&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu28nQGXKc-OgLOQY90WTRXls/ts
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="BRASIL",Foodies
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
-old
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", COCINA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5a45f230-ac3b-11eb-b970-0242ac110002&sid=5a45f230-ac3b-11eb-b970-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://picfiles.alphacoders.com/157/157111.png" group-title="BRASIL",Hell's Kitchen
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
-old
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=24152684-aed7-4c8a-9a34-afc8c6973db7&deviceVersion=91.0.4472&appVersion=5.102.0-fb1fedbd64193f9db000f97c44ce29de6b0bb9d5&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", COCINA AHORA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bf79029d-ac3a-11eb-878e-0242ac110002&sid=bf79029d-ac3a-11eb-878e-0242ac110002&userId=
@@ -148,6 +144,9 @@ http://suatv.fun:80/canaisp2p/mudar@2021j45/415374
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="BRASIL",Home & Held
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415415
+
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7IgUZ7-K9L8SVwdcSWvIL8.png" group-title="BRASIL",Mas ChiC
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yno9SUhmEk6NpGl_cy9CRA/ts
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/15/632/png-clipart-e-television-channel-entertainment-logo-channel-miscellaneous-television.png" group-title="BRASIL",E!
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415652
@@ -480,11 +479,17 @@ http://live.meusrv.gq/hls/19b51d475739/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #################### Bolovio ########################
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Globo
-http://tv.urllista.com/live/Tester1/im7wh59lrql/38424.ts
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Globo br
+https://live-cm-bc-06-25.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYmMtMDYtMjUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjcwNjYzOTk0LCJpYXQiOjE2NzA1Nzc1OTQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm9wZW5fc3RhdHVzIjoiRiIsIm93bmVyIjoiN2IxNzIzN2ItOWQ3MS00Y2Q5LWE2MTYtYjY3MzdlZTUzZmI2IiwicGF0aCI6Ii9udS9mKGR2cj0xODAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiI4OTVlZmFhYy1kZTJiLWI4MzgtNTYwOS1lOTkzOTcxMzBlNzMifQ.puids1ClMhYM-4DCpRpenILxjLhUbVy-tvq8M9pBvSdA47HWAatyVJxgvb2ngBxWXFKy-puGxnOqZkLCSNDFoTgpJ6FDslZM84m2hGAYq7XOyhKoUPf5Z4YUe972nnCAvErcjxZW_UvBzcKr7CwiCzrmXEkL40pNqlx8nJM4SA0r5LhqexgV9OeG76AP8aUm3RyqGRtKwHL6WgKehVvGbYLf_PE_CIhXU9go2N6z1n6e0Xs5k75ho9gGUtep657I7Ew8_1HN_Bqi07T9rd4-bwxK_qccDkai9jMpJmgb13moi5spvjYzRA341AUExuakdlF3z-R8fur0PckRLs5SIw/nu/f(dvr=180,i=2)/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8?dvr_window_length=180
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Globo 2 br
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5352
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Sportv br
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yJdgziYhi8-kWycQgFa_TI/ts
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",TyC Sport
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+http://castlempire.site:8080/cliente3226/123456/169975
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Unitel
 http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27Kd1qw6dhJ2OYXBSIfbE2U/ts
@@ -496,22 +501,22 @@ https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m
 http://retroplay.io:80/eedzdgnq/MGCuKNMT/304323
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azteca 7
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yPuHwm00Vc4DeGcbDkL-eQ/ts
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azteca 7.1
-http://megatitan.net:8080/mattfelipe/9wamh4g92v/24033
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/93860.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv
 http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/210718
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directvv
-http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/145191
+http://777back.xyz:8080/restreamUSA/tmDYEuwqAs/210708
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv 2
 http://200.52.154.125:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Directv +
-http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1286
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1195
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z" group-title="BOLIVIA",Test 1
 http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wsK0M91671UQKiuUM0hrcY/ts
@@ -616,13 +621,7 @@ https://5d00db0e0fcd5.streamlock.net:443/7232/7232/playlist.m3u8
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azzteca 7
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/93860.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azzteca 7.1
 http://yourstream.link:24561/live/athos5681/798171/71453.ts
-
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png" group-title="BOLIVIA",Azzteca 7 FHD
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/865
 
 #################### Pluto ########################
 
@@ -788,6 +787,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5
 ******************************24/7*******************************
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35481
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 2
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58117
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-Clipart-Background.png" group-title="24/7",Tom Y Jerry
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35484
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Woody-woodpecker.png" group-title="24/7",Pajaro Loco
@@ -842,6 +843,10 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/312
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/250548
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F40DQn6/Sin-t-tulo-2.png" group-title="24/7",DON GATO Y SU PANDILLA
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26196
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons Nuevos
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/302770
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons2
+http://line.4k-ott.com:80/Voco417/76A76A50/209675
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/6/Hercules-PNG-Picture.png" group-title="24/7",Hercules
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/160619
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/494/499/png-clipart-batman-drawing-logo-batman-logo-heroes-superhero-thumbnail.png" group-title="24/7",BATMAN ANIMADO 1992
@@ -944,3 +949,24 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/326
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/318
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" group-title="24/7",HÉROES EN PIJAMAS
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/328
+
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0Xi0ABvakrlSgnbWW1Unc8.png" group-title="24/7",Play Boy Tv
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21OIn8rpDdW4b8HwWFPhEbg/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj5IKEHQ-UcL44c2AwyL63tU.png" group-title="24/7",Twistys
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu299aZBfuuNnc0UX79bFwDMM/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhny_b-li_SzNYPvUhIwoXVEA.png" group-title="24/7",Venus
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wf7Dod7h8HqoWw-ykpANqQ/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj3l-jWdNvVmC6eTUwF44nuU.png" group-title="24/7",Vixen
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xy7a4fW6Nj216Q38jKUGaw/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj5RAmuOzp_rFSMfpeXIx2Qc.png" group-title="24/7",Sweetie Fox
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23ZxD5TVaTag1DY4n8OtQ_A/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj6XmzYnnXYxVS_YKr0JUhWs.png" group-title="24/7",Fokings
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25YVXwunkAugQvRLFzz_2ek/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyGgwhtFV5KHf2X6v28c8no.png" group-title="24/7",Fake Hotel
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26Pz5uMK3BduMNtvpoe8-tA/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj7OXMMlnCoXWRt37HkGiG4o.png" group-title="24/7",Fake Taxy
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22xtUVTclnx2QxGwUgCqIyA/ts
+#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzHDlg139O6XJsHOef7HN9g.png" group-title="24/7",Hause of Fire
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wDxNSoYoioFFfG2ir2OJKM/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" group-title="24/7",Bang
+http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yVnOT4E5LQdeWOcViUoH4I/ts
